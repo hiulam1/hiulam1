@@ -1,5 +1,7 @@
-Hi there 👋 /n
-🔭 I’m currently working on Ruby on Rails projects /n
+Hi there 👋 
+
+🔭 I’m currently working on Ruby on Rails projects 
+
 🌱 I’m currently learning Ruby on Rails, C, HTML, CSS, Javascript
 <!--
 **hiulam1/hiulam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
