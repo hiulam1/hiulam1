@@ -2,7 +2,7 @@ Hi there 👋
 
 🔭 I’m currently taking the Harvard CS50 Course. 
 
-🌱 I’m currently learning Ruby on Rails, C, HTML, CSS, Javascript.
+🌱 I’m currently learning React.
 
 <!--
 **hiulam1/hiulam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
