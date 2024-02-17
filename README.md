@@ -2,7 +2,7 @@
 
 ### Currently learning React Native. <br>
 
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=React%2CReact%2Ca07373%3BReact+Native%2CReact+Native%2C9c9c9c%3BJavaScript%2CJavaScript%2C74b3cf%3BRuby+on+Rails%2CRuby+on+Rails%2C5136b5%3BRuby%2CRuby%2C41b5d9%3BFirebase%2CFirebase%2C4d6ad3%3BHTML%2CHTML%2C6663b4%3BCSS%2CCSS%2C0459c5%3BNode.js%2CNode.js%2C3823bc%3BGIt%2Cgit%2Cf1a17e%3Bexpo%2Cexpo%2Cd113d7%3Bnativewind%2Cnativewind%2C7dde4d%3Bexpress%2Cexpress%2C29b5ca%3Bnext.js%2Cnext.js%2C16ad6e%3Bmysql%2Cmysql%2C2527a8%3B" alt="My Tech Stack" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&width=600&line1=react%2Creact%2C3f86d4%3Breact+native%2Creact+native%2Cb1f730%3BJavascript%2Cjavascript%2C0d66ab%3Bfirebase%2Cfirebase%2C4e28c9%3B&line2=Ruby%2Cruby%2C4252d8%3BRuby+on+Rails%2CRuby+on+Rails%2C160c74%3BHTML%2CHTML%2Cf854bd%3Bcss%2Ccss%2C955a1d%3BTailwind+CSS%2CTailwind+CSS%2C10b172%3B&line3=GIT%2Cgit%2C3de01c%3Bnode.js%2Cnode.js%2Cf3e1e8%3Bexpress%2Cexpress%2C35e5aa%3Bnext.js%2Cnext.js%2C0f60e6%3Bmysql%2Cmysql%2Cc56535%3B" alt="My Tech Stack" />
 <!--
 **hiulam1/hiulam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
